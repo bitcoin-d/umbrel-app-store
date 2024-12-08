@@ -1,3 +1,0 @@
-
-export APP_SURREALDB_PORT=8088
-export APP_SURREALDB_DATA_DIR="${EXPORTS_APP_DIR}/data/surrealdb"
